@@ -1,0 +1,27 @@
+{
+  "name": "practice-nuxt-app",
+  "version": "1.0.0",
+  "description": "My marvelous Nuxt.js project",
+  "author": "erdem nayir",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^15.0.0",
+    "@ckeditor/ckeditor5-vue": "^1.0.0",
+    "@nuxtjs/axios": "^5.8.0",
+    "@nuxtjs/toast": "^3.3.0",
+    "@tui-nuxt/editor": "^1.0.0-beta.3",
+    "axios": "^0.19.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "js-cookie": "^2.2.1",
+    "nuxt": "^2.0.0",
+    "vue-wysiwyg": "^1.7.2"
+  },
+  "devDependencies": {}
+}
